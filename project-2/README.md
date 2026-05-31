@@ -3,50 +3,52 @@
 
 ## Project Summary
 
-Developed an interactive Power BI dashboard to analyze year‑over‑year sales for 45 randomly selected Walmart stores in the U.S. from February 2010 to October 2012, capturing the post‑recession retail climate. The dashboard incorporates data modeling, DAX measures, and visual storytelling to reveal sales trends and external factors such as holidays and unemployment rates.
+This project involved analyzing Walmart store sales data from 45 random US stores between 2010 and 2012, offering insights into sales trends during a recession period.
 
 ---
 
 ## Business Problem
 
-Retail managers needed a clear, data‑driven view of how Walmart store sales fluctuated during the early 2010s, a period marked by economic recovery and changing consumer behavior. Without actionable insights, decision makers could not effectively allocate resources or adjust strategies to optimize performance.
+Understanding the impact of economic downturns on retail sales across multiple locations to inform strategic decision-making.
 
 ---
 
 ## Objective
 
-- Import and cleanse Walmart sales data into Power BI.
-- Create a robust date/calendar model and enrich data with holiday and unemployment indicators.
-- Build DAX measures to calculate total, monthly, average, and year‑over‑year sales metrics.
+- To visualize year-over-year sales trends for Walmart stores in the US
+- To assess the effects of economic conditions on retail performance
+- To create a comprehensive dashboard integrating multiple data sources
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- Power BI Cloud
-- DAX
+- Power BI
 - Excel
-- CSV
+- Tableau
+- Power Query
+- Python
+- Data Visualization
+- SQL
+- Web Scraping
 
 ---
 
 ## Project Workflow
 
-- Import CSV data and establish relationships with a calendar table.
-- Add conditional columns for holiday flags and unemployment rates.
-- Create custom sorting columns for better visual ordering.
-- Develop DAX measures for key sales metrics.
-- Deploy the finished dashboard to the Colaberry Power BI Cloud.
+- Import and clean the Walmart sales data from CSV files
+- Load data into Power BI Desktop for initial exploration
+- Transform data using DAX formulas to calculate key metrics
+- Create visualizations and dashboards in Power BI
+- Refresh data regularly to ensure up-to-date insights
 
 ---
 
 ## Key Insights
 
-- Sales trends show a gradual recovery after 2008, with notable dips during holiday weeks.
-- Unemployment rates correlate with lower average weekly sales across the sample stores.
-- Year‑over‑year growth varies by month, indicating seasonal sensitivity.
-- Custom sorting of holiday and unemployment flags enhances the clarity of trend visualizations.
+- Sales patterns in discount periods significantly affected overall performance
+- Monthly trends helped identify seasonal impacts on retail revenue
+- The project demonstrated the importance of real-time data integration for decision-making
 
 ---
 
@@ -58,9 +60,9 @@ Retail managers needed a clear, data‑driven view of how Walmart store sales fl
 
 ## Business Impact
 
-- Enables store managers to benchmark performance against national trends.
-- Supports targeted marketing and inventory decisions during high‑impact periods.
-- Provides a repeatable framework for monitoring future sales cycles.
+- Enables retailers to anticipate and respond to market fluctuations
+- Supports data-driven strategies during economic downturns
+- Provides actionable insights for inventory and marketing planning
 
 ---
 
