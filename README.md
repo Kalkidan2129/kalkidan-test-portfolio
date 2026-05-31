@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analystfocused on transforming raw data into actionable insights through tools like Power BI, Python, and ETL processes. My work emphasizes dashboarding, reporting, and business intelligence to support data-driven decision-making in industries such as telecommunications and retail. I specialize in uncovering patterns in sales, revenue, and customer behavior to drive strategic outcomes.
+I leverage Python and Power BI to transform data into actionable insights, bridging analysis with strategy across sectors like telecom and retail. My focus ensures clarity in dashboards and decision-making, turning complexity into value. This approach underpins my ability to drive informed outcomes in dynamic environments.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analystfocused on transforming raw data into actionable insights thr
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a Power BI dashboard for Vodafone Qatar to analyze revenue trends and customer behavior from 2021–2023. Enabled data-driven decision-making by creating an ML-ready dataset and forecasting models to improve financial planning and churn reduction strategies.
+Developed a unified, ML-ready data foundation to analyze revenue, churn, and customer behavior for Vodafone Qatar. Using Python and Microsoft Fabric, the project enables data-driven forecasting and performance tracking to optimize financial planning and strategic decision-making.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a Power BI dashboard for Vodafone Qatar to analyze revenue trends and 
 
 ## 2. Walmart Store Sales
 
-Developedan interactive Power BI dashboard analyzing year‑over‑year sales across 45 Walmart stores from 2010‑2012, highlighting recession‑era trends. Demonstrates proficiency in data modeling, DAX measures, and visual storytelling for business insights.
+Developed a Power BI dashboard that visualizes year‑over‑year sales trends, CPI, and unemployment impacts across 45 U.S. Walmart stores from 2010‑2012.
 
 <br><br>
 

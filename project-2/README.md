@@ -3,52 +3,51 @@
 
 ## Project Summary
 
-This project involved analyzing Walmart store sales data from 45 random US stores between 2010 and 2012, offering insights into sales trends during a recession period.
+This project features a comprehensive Power BI dashboard analyzing year-over-year sales performance across 45 Walmart stores in the US. The analysis covers a period from February 2010 to October 2012, focusing on sales trends during the post-recession economic era.
 
 ---
 
 ## Business Problem
 
-Understanding the impact of economic downturns on retail sales across multiple locations to inform strategic decision-making.
+Walmart stores faced fluctuating sales performance due to the economic impact of the 2008 recession. The business needed a way to assess year-over-year sales trends and understand how factors like holiday weeks and unemployment rates influenced retail performance.
 
 ---
 
 ## Objective
 
-- To visualize year-over-year sales trends for Walmart stores in the US
-- To assess the effects of economic conditions on retail performance
-- To create a comprehensive dashboard integrating multiple data sources
+- Assess year-over-year sales trends across 45 Walmart locations
+- Analyze the impact of holiday periods and unemployment rates on sales
+- Develop a centralized Power BI dashboard for retail sales performance monitoring
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- Excel
-- Tableau
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
 - Power Query
-- Python
-- Data Visualization
-- SQL
-- Web Scraping
+- Excel
+- CSV Data Files
+- Data Modeling
 
 ---
 
 ## Project Workflow
 
-- Import and clean the Walmart sales data from CSV files
-- Load data into Power BI Desktop for initial exploration
-- Transform data using DAX formulas to calculate key metrics
-- Create visualizations and dashboards in Power BI
-- Refresh data regularly to ensure up-to-date insights
+- Imported bulk CSV sales data into Power BI Desktop
+- Engineered a custom Calendar table and Refresh Date table using DAX
+- Established relational data modeling between sales and calendar tables
+- Performed data transformation including conditional columns for holiday flags and unemployment groups
+- Developed advanced DAX measures for Total Sales, Sales Per Month, and Year-over-Year (YOY) growth
 
 ---
 
 ## Key Insights
 
-- Sales patterns in discount periods significantly affected overall performance
-- Monthly trends helped identify seasonal impacts on retail revenue
-- The project demonstrated the importance of real-time data integration for decision-making
+- Identification of sales trends during the post-2008 recession period
+- Correlation between holiday weeks and sales fluctuations
+- Impact of unemployment rate groupings on store performance
+- Year-over-year sales variance across different time periods
 
 ---
 
@@ -60,9 +59,9 @@ Understanding the impact of economic downturns on retail sales across multiple l
 
 ## Business Impact
 
-- Enables retailers to anticipate and respond to market fluctuations
-- Supports data-driven strategies during economic downturns
-- Provides actionable insights for inventory and marketing planning
+- Enabled data-driven assessment of year-over-year sales growth
+- Provided visibility into the relationship between economic indicators and retail sales
+- Streamlined sales monitoring through automated dashboard reporting
 
 ---
 
