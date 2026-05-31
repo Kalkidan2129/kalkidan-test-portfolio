@@ -3,31 +3,31 @@
 
 ## Project Summary
 
-The projecttransforms raw Vodafone Qatar telecom data (2021‑2023) into an ML‑ready dataset and unified dashboard. This enables advanced revenue forecasting, churn analysis, and performance tracking for finance and strategy teams.
+The project transforms raw Vodafone Qatar telecom data into a unified, ML-ready analytics platform that reveals hidden patterns in revenue, churn, and customer behavior. Leveraging NexusMax, Python, and Microsoft Fabric, it enables smarter revenue forecasting and data-driven decision-making for finance and strategy teams.
 
 ---
 
 ## Business Problem
 
-Telecom revenue performance varies across regions and segments, but finance and strategy teams lack a consolidated view of revenue, churn, and subscriber trends. This uncertainty hampers accurate forecasting and budget allocation despite overall revenue growth.
+Telecom revenue performance varies significantly across regions and customer segments, but business teams lack a clear, consolidated view to understand where growth is happening and where revenue is at risk. While quarterly revenue is increasing, fluctuations in churn and subscriber behavior create uncertainty in forecasting and budget planning. Without a unified view of revenue, subscribers, churn, and network performance over time, finance and strategy teams struggle to make confident, data-driven decisions.
 
 ---
 
 ## Objective
 
-- Create an ML‑ready, unified dataset for revenue, churn, and subscriber metrics
-- Develop quarterly revenue forecasts to improve budget planning
-- Provide actionable insights on segment performance and churn drivers
+- Enhance quarterly revenue forecasting accuracy to optimize budget allocation.
+- Reduce churn in key telecom segments to protect recurring revenue.
+- Deliver a unified, ML-ready dataset and dashboard for finance and strategy teams.
 
 ---
 
 ## Tools & Technologies
 
-- Python
-- Pandas
-- Microsoft Fabric
 - NexusMax
+- Python
+- Microsoft Fabric
 - Power BI
+- Numtra
 - ETL
 - Machine Learning
 - Data Warehousing
@@ -36,20 +36,20 @@ Telecom revenue performance varies across regions and segments, but finance and 
 
 ## Project Workflow
 
-- Ingest and clean raw telecom data, establishing a centralized date table
-- Enrich and engineer features to produce an ML‑ready dataset
-- Train regression models for quarterly revenue forecasting
-- Design and publish interactive Power BI dashboards for KPI visualization
-- Deploy the solution to Power BI Cloud and integrate with finance workflows
+- Upload the project to Colaberry Power BI Cloud for deployment.
+- Clean, standardize, and create a centralized date table for the raw telecom data.
+- Transform and enrich the dataset using NexusMax, Python, and Microsoft Fabric to produce ML-ready features.
+- Develop and validate regression models for quarterly revenue forecasting.
+- Build and publish an interactive Power BI dashboard for performance tracking and insight delivery.
 
 ---
 
 ## Key Insights
 
-- Total revenue grew 14% quarter‑over‑quarter to $108K, indicating strong growth momentum
-- Churn among high‑value mobile prepaid customers exceeds 2.5% and rises quarterly, affecting revenue stability
-- Network availability is 99.95%, providing a reliable foundation for retention initiatives
-- Segment‑level churn (Mobile Postpaid, Fixed Broadband) ranges 2.41%‑2.74%, exceeding overall churn and representing avoidable revenue loss
+- Total revenue grew 14% QoQ to $108K, with Doha contributing the largest share, indicating strong, predictable quarterly momentum.
+- High‑value mobile prepaid churn exceeds 2.5% and is increasing, creating revenue instability.
+- Churn in Mobile Postpaid and Fixed Broadband segments (2.41%–2.74%) is above the overall rate, representing avoidable annual revenue loss of $8–12K.
+- Network availability of 99.95% provides a solid foundation for retention efforts across all segments.
 
 ---
 
@@ -61,9 +61,9 @@ Telecom revenue performance varies across regions and segments, but finance and 
 
 ## Business Impact
 
-- Enhanced forecasting accuracy enables more precise budget allocation across high‑growth segments
-- Unified analytics reduce manual reporting time and improve decision‑making speed for finance teams
-- Identification of churn hotspots supports targeted retention strategies, protecting recurring revenue
+- Improves revenue forecasting accuracy, enabling more reliable budget allocation and investment planning.
+- Identifies churn hotspots, supporting targeted retention strategies that protect recurring revenue.
+- Provides a unified, ML-ready analytics platform that accelerates decision-making for finance and strategy teams.
 
 ---
 

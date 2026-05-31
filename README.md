@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who transforms rawtelecom and retail datasets into actionable insights using Python, Power BI, and modern data‑warehousing techniques. By building interactive dashboards and predictive models, I enable stakeholders to forecast revenue trends, track performance, and make data‑driven decisions with confidence. My work spans end‑to‑end ETL pipelines, data enrichment, and visualization, delivering clear business intelligence that supports strategic planning across industries.
+I am a data analyst who specializes in turning raw, multi‑source datasets into clear, actionable business intelligence using Python (Pandas), SQL‑based ETL pipelines, and modern data‑warehousing tools. My work focuses on building robust Power BI dashboards and automated reporting solutions that enable finance, strategy, and retail teams to monitor performance, forecast demand, and make data‑driven decisions with confidence. With a strong foundation in analytics, data modeling, and visualization, I deliver end‑to‑end insights that bridge the gap between complex data and strategic outcomes.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who transforms rawtelecom and retail datasets into actionabl
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a revenue forecasting solution for Vodafone Qatar using Python and Power BI, transforming telecom data into actionable business intelligence. Enables data-driven decision-making for finance and strategy teams through ML-ready analytics.
+Developed a unified, ML‑ready data foundation for Vodafone Qatar’s 2021‑2023 telecom performance, enabling accurate revenue forecasting and churn analysis. Leveraged NexusMax, Python, and Microsoft Fabric to transform raw data into actionable business intelligence for finance and strategy teams.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a revenue forecasting solution for Vodafone Qatar using Python and Pow
 
 ## 2. Walmart Store Sales
 
-This project analyzes year-over-year sales trends across 45 US Walmart stores during the post-recession period. Built with Power BI, it provides insights into retail performance during economic recovery.
+Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends across 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and KPI visualizations.
 
 <br><br>
 
