@@ -3,51 +3,51 @@
 
 ## Project Summary
 
-This project features a comprehensive Power BI dashboard analyzing year-over-year sales performance across 45 Walmart stores in the US. The analysis covers a period from February 2010 to October 2012, focusing on sales trends during the post-recession economic era.
+This project builds an interactive Power BI dashboard to assess year-over-year sales across 45 US Walmart stores from February 2010 through October 2012. It contextualizes weekly sales performance during the post-recession recovery period following the 2008 economic downturn. The solution combines time intelligence, conditional categorization, and custom DAX measures, deploying the final report to Power BI Cloud.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced fluctuating sales performance due to the economic impact of the 2008 recession. The business needed a way to assess year-over-year sales trends and understand how factors like holiday weeks and unemployment rates influenced retail performance.
+Discount and department stores faced significant sales impacts while emerging from the great recession of 2008, creating a need for clearer operational visibility. Walmart required a systematic way to evaluate year-over-year sales fluctuations across 45 randomly selected US stores during the 2010–2012 recovery window. This project tackles that need by analyzing weekly sales data alongside external economic and seasonal variables to understand performance drivers.
 
 ---
 
 ## Objective
 
-- Assess year-over-year sales trends across 45 Walmart locations
-- Analyze the impact of holiday periods and unemployment rates on sales
-- Develop a centralized Power BI dashboard for retail sales performance monitoring
+- Assess year-over-year sales performance across 45 Walmart stores from Feb 2010 to Oct 2012
+- Build time intelligence and conditional categorizations (holidays, unemployment) to contextualize sales trends
+- Develop and deploy an interactive Power BI dashboard for retail analytics and reporting
 
 ---
 
 ## Tools & Technologies
 
 - Power BI Desktop
-- DAX (Data Analysis Expressions)
+- DAX
 - Power Query
+- Colaberry Power BI Cloud
 - Excel
-- CSV Data Files
-- Data Modeling
+- CSV / Text Data Sources
 
 ---
 
 ## Project Workflow
 
-- Imported bulk CSV sales data into Power BI Desktop
-- Engineered a custom Calendar table and Refresh Date table using DAX
-- Established relational data modeling between sales and calendar tables
-- Performed data transformation including conditional columns for holiday flags and unemployment groups
-- Developed advanced DAX measures for Total Sales, Sales Per Month, and Year-over-Year (YOY) growth
+- Import the Walmart sales CSV dataset into Power BI Desktop using the Text/CSV connector
+- Create a Calendar table with DAX and a Refresh Date table in Power Query to enable time-series tracking
+- Model relationships between the sales and calendar tables, then engineer conditional columns for holiday flags and unemployment groups
+- Develop custom sorting rules and DAX measures for total sales, average sales, sales per month, and year-over-year comparisons
+- Finalize the dashboard with branded logos, titles, and publish the report to Power BI Cloud
 
 ---
 
 ## Key Insights
 
-- Identification of sales trends during the post-2008 recession period
-- Correlation between holiday weeks and sales fluctuations
-- Impact of unemployment rate groupings on store performance
-- Year-over-year sales variance across different time periods
+- Year-over-year DAX measures enable direct comparison of average weekly sales across the 2010–2012 post-recession timeline
+- Holiday conditional columns distinguish weekly sales periods flagged as holiday versus non-holiday weeks
+- Unemployment conditional columns categorize stores by regional economic conditions to contextualize sales figures
+- Calendar table integration supports monthly seasonality analysis and consistent period-over-period reporting
 
 ---
 
@@ -59,9 +59,9 @@ Walmart stores faced fluctuating sales performance due to the economic impact of
 
 ## Business Impact
 
-- Enabled data-driven assessment of year-over-year sales growth
-- Provided visibility into the relationship between economic indicators and retail sales
-- Streamlined sales monitoring through automated dashboard reporting
+- Delivers a unified Power BI dashboard for assessing year-over-year sales performance across 45 US Walmart stores
+- Embeds holiday and unemployment contextual data directly into the analytical workflow to support root-cause exploration
+- Publishes interactive reporting to the cloud, making retail performance insights accessible for stakeholder review
 
 ---
 

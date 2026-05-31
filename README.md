@@ -11,7 +11,7 @@
 
 ## About
 
-I leverage Python and Power BI to transform data into actionable insights, bridging analysis with strategy across sectors like telecom and retail. My focus ensures clarity in dashboards and decision-making, turning complexity into value. This approach underpins my ability to drive informed outcomes in dynamic environments.
+I am a data analyst who transforms rawtelecom and retail datasets into actionable insights using Python, Power BI, and modern data‑warehousing techniques. By building interactive dashboards and predictive models, I enable stakeholders to forecast revenue trends, track performance, and make data‑driven decisions with confidence. My work spans end‑to‑end ETL pipelines, data enrichment, and visualization, delivering clear business intelligence that supports strategic planning across industries.
 
 ---
 
@@ -30,7 +30,7 @@ I leverage Python and Power BI to transform data into actionable insights, bridg
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a unified, ML-ready data foundation to analyze revenue, churn, and customer behavior for Vodafone Qatar. Using Python and Microsoft Fabric, the project enables data-driven forecasting and performance tracking to optimize financial planning and strategic decision-making.
+Developed a revenue forecasting solution for Vodafone Qatar using Python and Power BI, transforming telecom data into actionable business intelligence. Enables data-driven decision-making for finance and strategy teams through ML-ready analytics.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a unified, ML-ready data foundation to analyze revenue, churn, and cus
 
 ## 2. Walmart Store Sales
 
-Developed a Power BI dashboard that visualizes year‑over‑year sales trends, CPI, and unemployment impacts across 45 U.S. Walmart stores from 2010‑2012.
+This project analyzes year-over-year sales trends across 45 US Walmart stores during the post-recession period. Built with Power BI, it provides insights into retail performance during economic recovery.
 
 <br><br>
 

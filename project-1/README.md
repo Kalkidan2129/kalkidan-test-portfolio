@@ -3,50 +3,53 @@
 
 ## Project Summary
 
-The project focuses on enhancing telecom forecasting to optimize resource allocation and improve business outcomes. It aims to provide actionable insights for strategic planning.
+The projecttransforms raw Vodafone Qatar telecom data (2021‑2023) into an ML‑ready dataset and unified dashboard. This enables advanced revenue forecasting, churn analysis, and performance tracking for finance and strategy teams.
 
 ---
 
 ## Business Problem
 
-The primary challenge involves predicting revenue shifts accurately to support effective financial management and strategic decisions.
+Telecom revenue performance varies across regions and segments, but finance and strategy teams lack a consolidated view of revenue, churn, and subscriber trends. This uncertainty hampers accurate forecasting and budget allocation despite overall revenue growth.
 
 ---
 
 ## Objective
 
-- Enhance forecasting accuracy
-- Reduce customer churn
-- Improve operational efficiency
+- Create an ML‑ready, unified dataset for revenue, churn, and subscriber metrics
+- Develop quarterly revenue forecasts to improve budget planning
+- Provide actionable insights on segment performance and churn drivers
 
 ---
 
 ## Tools & Technologies
 
 - Python
-- NexusMax
+- Pandas
 - Microsoft Fabric
+- NexusMax
+- Power BI
+- ETL
+- Machine Learning
 - Data Warehousing
-- ETL Tools
 
 ---
 
 ## Project Workflow
 
-- Analyze data patterns
-- Implement predictive models
-- Develop dashboards
-- Integrate insights
-- Optimize workflows
+- Ingest and clean raw telecom data, establishing a centralized date table
+- Enrich and engineer features to produce an ML‑ready dataset
+- Train regression models for quarterly revenue forecasting
+- Design and publish interactive Power BI dashboards for KPI visualization
+- Deploy the solution to Power BI Cloud and integrate with finance workflows
 
 ---
 
 ## Key Insights
 
-- Unified data foundation
-- Improved forecasting
-- Enhanced decision-making
-- Reduced risks
+- Total revenue grew 14% quarter‑over‑quarter to $108K, indicating strong growth momentum
+- Churn among high‑value mobile prepaid customers exceeds 2.5% and rises quarterly, affecting revenue stability
+- Network availability is 99.95%, providing a reliable foundation for retention initiatives
+- Segment‑level churn (Mobile Postpaid, Fixed Broadband) ranges 2.41%‑2.74%, exceeding overall churn and representing avoidable revenue loss
 
 ---
 
@@ -58,9 +61,9 @@ The primary challenge involves predicting revenue shifts accurately to support e
 
 ## Business Impact
 
-- Increased revenue predictability
-- Lower churn rates
-- Better resource allocation
+- Enhanced forecasting accuracy enables more precise budget allocation across high‑growth segments
+- Unified analytics reduce manual reporting time and improve decision‑making speed for finance teams
+- Identification of churn hotspots supports targeted retention strategies, protecting recurring revenue
 
 ---
 
