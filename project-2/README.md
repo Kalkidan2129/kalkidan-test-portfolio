@@ -3,21 +3,21 @@
 
 ## Project Summary
 
-This project analyzes Walmart store sales data from 45 randomly selected US stores between 2010 and 2012, offering insights into performance during the post-recession period.
+This project involved creating a Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US during the post-Great Recession period (Feb 2010 - Oct 2012). The dashboard visualized sales trends, holiday impacts, and unemployment effects on retail performance.
 
 ---
 
 ## Business Problem
 
-Walmart faced challenges in maintaining sales amid economic downturns, similar to discount retailers.
+Walmart needed to understand how economic factors like the aftermath of the Great Recession and unemployment rates affected their sales performance across multiple stores. The business required a comprehensive analysis to identify patterns and make data-driven decisions during a challenging economic period.
 
 ---
 
 ## Objective
 
-- Visualize year-over-year sales trends across multiple Walmart locations
-- Identify key factors influencing sales performance during the 2008 recession aftermath
-- Generate actionable insights to support strategic decision-making for retail operations
+- Analyze year-over-year sales trends across 45 Walmart stores
+- Identify the impact of holidays and unemployment rates on sales performance
+- Create an interactive dashboard for visualizing retail sales data
 
 ---
 
@@ -25,30 +25,28 @@ Walmart faced challenges in maintaining sales amid economic downturns, similar t
 
 - Power BI
 - Excel
-- Data Analysis
+- DAX (Data Analysis Expressions)
 - Power Query
-- Table Visualizations
-- DAX
-- Data Modeling
+- CSV data processing
 
 ---
 
 ## Project Workflow
 
-- Import the Walmart sales data into Power BI
-- Create a calendar table to map sales by month
-- Establish relationships between tables for comprehensive analysis
-- Build conditional columns to highlight special events or economic indicators
-- Develop DAX measures for performance metrics and comparisons
-- Design and customize dashboards for stakeholder review
+- Import and clean Walmart sales data from CSV files
+- Create calendar and refresh date tables for time-based analysis
+- Establish relationships between data tables
+- Develop conditional columns for holiday and unemployment factors
+- Build DAX measures for sales calculations and create the final dashboard
 
 ---
 
 ## Key Insights
 
-- Sales patterns were significantly affected by seasonal and economic factors
-- Holiday periods and unemployment rates showed distinct impacts on store performance
-- Data integration challenges were resolved through Power Query transformations
+- Sales performance varied significantly across different Walmart locations
+- Holiday periods showed measurable impacts on weekly sales figures
+- Unemployment rates correlated with changes in consumer spending patterns
+- Year-over-year comparisons revealed recovery trends following the Great Recession
 
 ---
 
@@ -60,9 +58,9 @@ Walmart faced challenges in maintaining sales amid economic downturns, similar t
 
 ## Business Impact
 
-- The insights help retailers understand discount strategies during recessions
-- Identifying month-specific trends supports targeted marketing efforts
-- Improved data modeling enhances forecasting accuracy for future planning
+- Provided Walmart with actionable insights into post-recession sales patterns
+- Enabled data-driven decision making for inventory and staffing during critical periods
+- Created a scalable dashboard framework for ongoing retail performance monitoring
 
 ---
 

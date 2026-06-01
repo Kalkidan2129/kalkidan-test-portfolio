@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Bezabeh 👋
+# Hi, I'm kalkidan 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who specializes in turning raw, multi‑source datasets into clear, actionable business intelligence using Python (Pandas), SQL‑based ETL pipelines, and modern data‑warehousing tools. My work focuses on building robust Power BI dashboards and automated reporting solutions that enable finance, strategy, and retail teams to monitor performance, forecast demand, and make data‑driven decisions with confidence. With a strong foundation in analytics, data modeling, and visualization, I deliver end‑to‑end insights that bridge the gap between complex data and strategic outcomes.
+"I utilize Python and Power BI to distill insights from data, enhancing decision-making across industries. My focus on reporting and dashboarding ensures clarity and efficiency in translating complex information. This approach underpins my ability to drive impactful outcomes in dynamic environments."
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who specializes in turning raw, multi‑source datasets into
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a unified, ML‑ready data foundation for Vodafone Qatar’s 2021‑2023 telecom performance, enabling accurate revenue forecasting and churn analysis. Leveraged NexusMax, Python, and Microsoft Fabric to transform raw data into actionable business intelligence for finance and strategy teams.
+Transformed Vodafone Qatar telecom data into an ML‑ready dataset using NexusMax, enabling accurate revenue forecasting and performance insights for finance and strategy teams. The Power BI dashboard visualizes key KPIs and supports data‑driven decision making.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a unified, ML‑ready data foundation for Vodafone Qatar’s 2021‑20
 
 ## 2. Walmart Store Sales
 
-Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends across 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and KPI visualizations.
+Developed a Power BI dashboard to analyze year-over-year sales performance across 45 Walmart stores. The project evaluates the impact of economic factors and holiday trends on retail revenue from 2010 to 2012.
 
 <br><br>
 
@@ -72,4 +72,4 @@ Developed an interactive Power BI dashboard analyzing year‑over‑year sales
 
 ## Contact
 
-<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:Kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
