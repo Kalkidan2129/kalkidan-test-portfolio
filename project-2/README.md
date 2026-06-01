@@ -3,50 +3,52 @@
 
 ## Project Summary
 
-This project involved creating a Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US during the post-Great Recession period (Feb 2010 - Oct 2012). The dashboard visualized sales trends, holiday impacts, and unemployment effects on retail performance.
+Developed an interactive Power BI dashboard that visualizes year‑over‑year sales for 45 Walmart stores across the United States from February 2010 to October 2012. The solution integrates calendar tables, custom sorting, and DAX measures to enable drill‑down analysis of sales trends during the post‑recession period.
 
 ---
 
 ## Business Problem
 
-Walmart needed to understand how economic factors like the aftermath of the Great Recession and unemployment rates affected their sales performance across multiple stores. The business required a comprehensive analysis to identify patterns and make data-driven decisions during a challenging economic period.
+Walmart’s regional stores needed a clear view of how the 2008‑09 recession impacted weekly sales and how factors such as holidays and unemployment rates influenced performance. Existing reports were static and did not allow easy comparison across time periods or stores.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales trends across 45 Walmart stores
-- Identify the impact of holidays and unemployment rates on sales performance
-- Create an interactive dashboard for visualizing retail sales data
+- Import and cleanse the raw CSV sales data in Power BI Desktop.
+- Build a robust data model with date, holiday, and unemployment dimensions.
+- Create visualizations and DAX measures that reveal YoY sales trends and key drivers.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- Excel
+- Power BI Desktop
 - DAX (Data Analysis Expressions)
-- Power Query
-- CSV data processing
+- Power Query (M language)
+- Excel (for initial data review)
+- CSV data source
+- Power BI Cloud (deployment)
+- Data modeling relationships
 
 ---
 
 ## Project Workflow
 
-- Import and clean Walmart sales data from CSV files
-- Create calendar and refresh date tables for time-based analysis
-- Establish relationships between data tables
-- Develop conditional columns for holiday and unemployment factors
-- Build DAX measures for sales calculations and create the final dashboard
+- Import the Walmart sales CSV into Power BI Desktop and load the data.
+- Create a Calendar table and a Refresh Date table using DAX formulas.
+- Establish relationships between the Calendar and Walmart tables.
+- Add conditional columns for holiday flags and unemployment rate groups, then apply custom sort orders.
+- Develop DAX measures (Total Sales, Sales per Month, Avg Sales, Sales YoY) and design the final dashboard with logos and titles.
 
 ---
 
 ## Key Insights
 
-- Sales performance varied significantly across different Walmart locations
-- Holiday periods showed measurable impacts on weekly sales figures
-- Unemployment rates correlated with changes in consumer spending patterns
-- Year-over-year comparisons revealed recovery trends following the Great Recession
+- A dedicated Calendar table enables consistent time‑intelligence calculations such as year‑over‑year growth.
+- Conditional columns for holiday weeks and unemployment groups help isolate external factors affecting sales.
+- Custom sort columns ensure that month names and categorical flags display in logical order on visuals.
+- DAX measures provide quick access to total sales, average sales, and YoY percentage change for each store.
 
 ---
 
@@ -58,9 +60,9 @@ Walmart needed to understand how economic factors like the aftermath of the Grea
 
 ## Business Impact
 
-- Provided Walmart with actionable insights into post-recession sales patterns
-- Enabled data-driven decision making for inventory and staffing during critical periods
-- Created a scalable dashboard framework for ongoing retail performance monitoring
+- Empowers store managers to identify periods of sales decline or growth quickly.
+- Supports data‑driven decisions on inventory and promotional planning around holidays and economic conditions.
+- Facilitates ongoing monitoring by publishing the dashboard to Power BI Cloud for stakeholder access.
 
 ---
 

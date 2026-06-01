@@ -3,50 +3,53 @@
 
 ## Project Summary
 
-The project enhances revenue forecasting accuracy and reduces churn through data-driven insights.
+This project transforms raw Vodafone Qatar telecom data into actionable business intelligence using NexusMax, Python, and Microsoft Fabric. It identifies revenue trends, churn patterns, and customer behavior to enable data-driven decision-making for finance and strategy teams. The result is an ML-ready dataset and dashboard for improved forecasting and performance tracking.
 
 ---
 
 ## Business Problem
 
-Telecom stakeholders seek improved revenue prediction and churn mitigation using available data.
+Vodafone Qatar faced challenges in predicting revenue shifts due to fragmented data, high churn rates in key segments, and lack of a unified analytics platform. Fluctuations in subscriber behavior and network performance created uncertainty in forecasting and budget planning.
 
 ---
 
 ## Objective
 
-- Improve forecasting precision for budget allocation.
-- Identify high-risk customer segments for retention.
-- Validate data integration techniques for scalability.
+- Improve quarterly revenue forecasting accuracy to optimize budget allocation across high-growth regions
+- Reduce churn in high-value telecom segments to protect recurring revenue
+- Create a unified, ML-ready data foundation for advanced analytics and strategic planning
 
 ---
 
 ## Tools & Technologies
 
-- NexusMax
+- Power BI
 - Python
+- NexusMax
 - Microsoft Fabric
-- Kaggle
-- PowerBI
+- ETL
+- Machine Learning
+- Data Science
+- Data Warehousing
 
 ---
 
 ## Project Workflow
 
-- Data Preparation
-- Model Development
-- Visualization
-- Analysis
-- Reporting
+- Define problem statement and objectives based on telecom revenue volatility
+- Clean and standardize raw telecom data from Vodafone Qatar (2021–2023)
+- Apply supervised regression models for revenue forecasting
+- Build visualizations and dashboards to track KPIs like ARPU, churn, and revenue
+- Analyze case studies to derive actionable insights for churn reduction and revenue optimization
 
 ---
 
 ## Key Insights
 
-- High churn rates in mobile segments require targeted strategies.
-- ML integration improves predictive accuracy by 20%.
-- Data standardization enhances dataset reliability.
-- Collaboration between teams boosts solution efficacy.
+- Doha contributed 72M subscribers and drove 14% QoQ revenue growth, indicating strong regional performance
+- Churn in Mobile Postpaid and Fixed Broadband segments (2.41%–2.74%) caused avoidable $8–12K annual revenue loss
+- High network availability (99.95%) supported retention efforts but did not offset segment-specific churn
+- Unified ML-ready dataset enabled proactive identification of revenue risks and customer behavior patterns
 
 ---
 
@@ -58,9 +61,9 @@ Telecom stakeholders seek improved revenue prediction and churn mitigation using
 
 ## Business Impact
 
-- Reduced operational costs through optimized resource use.
-- Increased customer retention rates.
-- Enhanced decision-making capabilities.
+- Optimized budget allocation by improving forecast accuracy for high-growth regions like Doha
+- Reduced churn-related revenue loss through targeted interventions in high-churn segments
+- Enhanced decision-making for finance and strategy teams with real-time access to unified analytics
 
 ---
 

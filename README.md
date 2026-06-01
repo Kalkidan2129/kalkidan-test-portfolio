@@ -1,4 +1,4 @@
-# Hi, I'm kalkidan 👋
+# Hi, I'm Kalkidan 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-"I utilize Python and Power BI to distill insights from data, enhancing decision-making across industries. My focus on reporting and dashboarding ensures clarity and efficiency in translating complex information. This approach underpins my ability to drive impactful outcomes in dynamic environments."
+I transform raw data into actionable business intelligence using Python, Power BI, and Excel to uncover patterns in revenue, performance, and sales trends. My work focuses on building dashboards and reports that empower data-driven decision-making across telecommunications and retail sectors. By enriching datasets and applying analytical techniques, I help teams confidently navigate challenges and identify growth opportunities.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Transformed Vodafone Qatar telecom data into an ML‑ready dataset using NexusMax, enabling accurate revenue forecasting and performance insights for finance and strategy teams. The Power BI dashboard visualizes key KPIs and supports data‑driven decision making.
+Leveraging NexusMax, this project transforms raw Vodafone telecom data into a unified, ML‑ready dataset that powers accurate revenue forecasting and performance dashboards for finance and strategy teams. It demonstrates end‑to‑end analytics, delivering actionable insights for smarter business decisions.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Transformed Vodafone Qatar telecom data into an ML‑ready dataset using NexusMa
 
 ## 2. Walmart Store Sales
 
-Developed a Power BI dashboard to analyze year-over-year sales performance across 45 Walmart stores. The project evaluates the impact of economic factors and holiday trends on retail revenue from 2010 to 2012.
+Developed a Power BI dashboard that visualizes year‑over‑year sales, CPI, and unemployment impacts across 45 U.S. Walmart stores from 2010‑2012, enabling clear trend analysis and store‑level performance insights.
 
 <br><br>
 
