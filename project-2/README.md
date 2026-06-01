@@ -3,21 +3,21 @@
 
 ## Project Summary
 
-The project analyzes Walmart store sales data to track performance trends and inform business decisions through dashboard visualization.
+The project evaluates sales trends and economic impacts over three years to identify patterns.
 
 ---
 
 ## Business Problem
 
-Assessing the effectiveness of retail strategies amid fluctuating market conditions and limited historical data remains challenging.
+Assessing sales performance amid economic challenges.
 
 ---
 
 ## Objective
 
-- Visualize sales trends over time
-- Analyze performance metrics
-- Provide actionable insights
+- Identify key trends in sales data
+- Analyze relationships between variables
+- Generate actionable insights
 
 ---
 
@@ -25,28 +25,22 @@ Assessing the effectiveness of retail strategies amid fluctuating market conditi
 
 - Power BI
 - Excel
-- Python
-- R
-- SQL
 
 ---
 
 ## Project Workflow
 
-- Import data into Power BI
-- Clean and analyze datasets
-- Create visualizations
-- Generate reports
-- Present findings
+- Data collection
+- Modeling
+- Visualization
 
 ---
 
 ## Key Insights
 
-- Identified seasonal sales patterns
-- Highlighted YOY growth opportunities
-- Revealed key performance indicators
-- Supported strategic adjustments
+- Reveals significant fluctuations
+- Highlights correlation factors
+- Supports decision-making
 
 ---
 
@@ -58,9 +52,7 @@ Assessing the effectiveness of retail strategies amid fluctuating market conditi
 
 ## Business Impact
 
-- Enhanced operational efficiency
-- Improved stakeholder communication
-- Optimized resource allocation
+- Enhances strategic planning and resource allocation
 
 ---
 
