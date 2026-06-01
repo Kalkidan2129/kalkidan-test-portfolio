@@ -11,7 +11,7 @@
 
 ## About
 
-I transform raw data into actionable business intelligence using Python, Power BI, and Excel to uncover patterns in revenue, performance, and sales trends. My work focuses on building dashboards and reports that empower data-driven decision-making across telecommunications and retail sectors. By enriching datasets and applying analytical techniques, I help teams confidently navigate challenges and identify growth opportunities.
+I am a data analyst dedicated to transforming complex, raw datasets into actionable business intelligence through advanced ETL processes and predictive modeling. I leverage tools like Python, Power BI, and Microsoft Fabric to build unified data foundations that uncover hidden patterns in sales, revenue, and customer behavior. My focus is on delivering high-impact reporting and forecasting solutions that empower stakeholders to make confident, data-driven decisions across the retail and telecommunications sectors.
 
 ---
 
@@ -30,7 +30,7 @@ I transform raw data into actionable business intelligence using Python, Power B
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Leveraging NexusMax, this project transforms raw Vodafone telecom data into a unified, ML‑ready dataset that powers accurate revenue forecasting and performance dashboards for finance and strategy teams. It demonstrates end‑to‑end analytics, delivering actionable insights for smarter business decisions.
+Developed an end‑to‑end analytics solution using NexusMax to transform raw Vodafone telecom data into a unified, ML‑ready dataset for revenue forecasting and performance analysis. Delivered a Power BI dashboard that empowers finance and strategy teams with actionable insights.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Leveraging NexusMax, this project transforms raw Vodafone telecom data into a un
 
 ## 2. Walmart Store Sales
 
-Developed a Power BI dashboard that visualizes year‑over‑year sales, CPI, and unemployment impacts across 45 U.S. Walmart stores from 2010‑2012, enabling clear trend analysis and store‑level performance insights.
+This project analyzes Walmart sales trends across 45 US stores from 2010 to 2012, highlighting post-recession challenges. It uses Power BI to create detailed visualizations, including conditional columns, KPIs, and custom charts.
 
 <br><br>
 
