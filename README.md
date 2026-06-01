@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst focused onturning raw telecom and retail data into actionable business intelligence. Using Python, Microsoft Fabric, and Power BI, I build ETL pipelines, develop ML‑ready data warehouses, and design interactive dashboards that surface revenue forecasts, churn patterns, and sales trends. My work empowers finance and strategy teams to make confident, data‑driven decisions across the telecommunications and retail sectors.
+I am a data analyst dedicated to transforming raw datasets into actionable business intelligence and strategic insights. I leverage tools like Python, Power BI, and Excel to build robust ETL pipelines and interactive dashboards that drive informed decision-making. My focus lies in uncovering patterns in revenue, sales, and customer behavior to help organizations optimize performance and forecast future trends.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst focused onturning raw telecom and retail data into actionabl
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a unified, ML-ready data foundation to analyze revenue, churn, and customer behavior for Vodafone Qatar. Using Python and Microsoft Fabric, the project enables precise revenue forecasting and strategic performance tracking for finance and strategy teams.
+This project builds a Power BI dashboard thattransforms Vodafone Qatar telecom data into actionable insights for revenue forecasting and performance analysis. It enables finance and strategy teams to make data‑driven decisions with a unified, ML‑ready dataset.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a unified, ML-ready data foundation to analyze revenue, churn, and cus
 
 ## 2. Walmart Store Sales
 
-Analyzed year-over-year sales trends across 45 Walmart stores from 2010 to 2012 using Power BI to assess post-recession performance impacts. Developed interactive dashboards to visualize sales, CPI, and unemployment effects, enabling data-driven retail strategy decisions.
+Developed a Power BI dashboard to analyze year-over-year sales performance across 45 Walmart stores. The project evaluates the impact of economic factors and holidays on retail revenue trends.
 
 <br><br>
 
