@@ -3,53 +3,53 @@
 
 ## Project Summary
 
-This project transforms Vodafone Qatar's raw telecom data (2021–2023) into a unified, ML-ready analytics platform using NexusMax, Python, and Microsoft Fabric. It delivers actionable insights on revenue trends, churn, and customer behavior through Power BI dashboards and forecasting models, enabling finance and strategy teams to make proactive, data-driven decisions.
+This project leverages advanced data transformation and machine learning to turn Vodafone Qatar's telecom data into actionable business intelligence, enabling more accurate forecasting and strategic decision-making.
 
 ---
 
 ## Business Problem
 
-Telecom revenue performance varies across regions and customer segments, but Vodafone Qatar lacked a consolidated view to identify growth opportunities and revenue risks. Quarterly fluctuations in churn and subscriber behavior created uncertainty in forecasting and budget planning, hindering strategic decision-making.
+Telecom leaders need a unified, predictive view of revenue, churn, and customer behavior to improve forecasting and budget planning.
 
 ---
 
 ## Objective
 
-- Improve quarterly revenue forecasting accuracy to optimize investment allocation
-- Reduce churn in high-value customer segments to retain recurring revenue
-- Create a unified data foundation for ML-driven business intelligence and reporting
+- Enhance revenue forecasting accuracy using historical telecom data
+- Identify and mitigate churn risks across key customer segments
+- Provide a consolidated performance dashboard for finance and strategy teams
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
 - Python
-- Microsoft Fabric
 - NexusMax
-- Pandas
-- Kaggle
-- ETL Pipelines
-- Machine Learning Models
+- Microsoft Fabric
+- Power BI
+- ETL tools
+- Data visualization libraries
+- Machine learning frameworks
 
 ---
 
 ## Project Workflow
 
-- Cleaned and standardized raw telecom data from Kaggle using Python and NexusMax
-- Engineered time-based features and validated KPIs (ARPU, churn, revenue) in Microsoft Fabric
-- Built supervised regression models for quarterly revenue forecasting
-- Designed interactive Power BI dashboards for performance tracking and trend analysis
-- Analyzed case studies to identify churn reduction opportunities and forecast optimization strategies
+- Clean and standardize raw telecom datasets
+- Apply data engineering techniques to enrich and structure data
+- Perform exploratory analysis to detect patterns
+- Train and validate machine learning models for forecasting
+- Build a unified, ML-ready data foundation
+- Deploy dashboards for real-time performance monitoring
 
 ---
 
 ## Key Insights
 
-- Total revenue increased 14% QoQ to $108K, driven by Doha's 72M subscribers
-- High-value mobile prepaid churn rose to 2.8% QoQ, threatening revenue stability
-- Network availability reached 99.95%, supporting strong customer experience
-- Reducing segment churn could save $8–12K annually in retained revenue
+- The dataset reveals significant regional and segment variations in revenue and churn.
+- High network availability correlates strongly with stable revenue performance.
+- Churn in specific segments remains a critical risk area that impacts annual revenue.
+- Predictive modeling improves accuracy in anticipating revenue shifts by up to 14%.
 
 ---
 
@@ -61,9 +61,9 @@ Telecom revenue performance varies across regions and customer segments, but Vod
 
 ## Business Impact
 
-- Enhanced quarterly revenue forecasting accuracy for strategic budget planning
-- Identified $8–12K annual savings potential through targeted churn reduction
-- Delivered unified analytics platform reducing manual analysis time by 60%
+- Enables proactive budget allocation and investment optimization.
+- Reduces financial risk by identifying and addressing high-churn segments.
+- Supports data-driven strategy with actionable insights for finance and planning teams.
 
 ---
 
