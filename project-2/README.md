@@ -3,52 +3,50 @@
 
 ## Project Summary
 
-Developed an interactive Power BI dashboard that visualizes year‑over‑year sales for 45 Walmart stores across the United States from February 2010 to October 2012, highlighting the post‑recession sales environment. The solution integrates calendar tables, custom sorting, and DAX measures to enable detailed trend and performance analysis.
+The Walmart Store Sales project develops an interactive Power BI dashboard that analyzes year‑over‑year sales performance across 45 U.S. Walmart locations from February 2010 to October 2012, capturing the post‑recession period. It integrates data preparation, modeling, and visualization to reveal sales trends and seasonal influences.
 
 ---
 
 ## Business Problem
 
-Walmart’s regional stores needed insight into how the 2008‑09 recession impacted weekly sales and how factors such as holidays and unemployment rates influenced performance. Existing reports lacked time‑intelligent calculations and visual cues to compare periods across stores.
+Walmart stores faced uncertain sales dynamics during the early recovery from the 2008 recession, making it difficult to identify performance drivers and underperforming locations. A unified, data‑driven view was needed to guide strategic decisions.
 
 ---
 
 ## Objective
 
-- Create a consolidated sales view that compares weekly and monthly performance across all stores.
-- Incorporate external variables (holiday flags, unemployment rates) to explain sales fluctuations.
-- Deliver a polished, shareable Power BI dashboard with branding and clear navigation.
+- Ingest and clean the Walmart sales CSV dataset in Power BI Desktop
+- Model the data with a calendar table, relationships, and calculated columns for holiday and unemployment context
+- Create DAX measures and visual elements to enable year‑over‑year sales analysis and dashboard deployment
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query (M language)
-- Excel (for CSV preparation)
-- Power BI Cloud (deployment)
-- SQL‑like modeling
-- Data visualization best practices
+- Power BI
+- Power BI Desktop
+- Excel
+- Data Analytics
+- Power BI Cloud
 
 ---
 
 ## Project Workflow
 
-- Import the Walmart CSV dataset into Power BI Desktop.
-- Build a Calendar table and refresh date table for time‑intelligence.
-- Define relationships between the sales table and calendar table.
-- Create conditional columns for holiday flags and unemployment groups, then apply custom sort orders.
-- Develop DAX measures (Total Sales, Sales per Month, Avg Sales, YoY Growth) and embed logos and titles for final presentation.
+- Import the Walmart Sales CSV file into Power BI Desktop and load the data
+- Create a Calendar table and refresh date table using DAX
+- Establish relationships between the Walmart table and the Calendar table
+- Develop conditional columns (e.g., Holiday Flag, Unemployment Rate) and apply custom sorting
+- Build DAX measures for total sales, average sales, and year‑over‑year growth, then publish the dashboard to Power BI Cloud
 
 ---
 
 ## Key Insights
 
-- Sales trends varied noticeably across months, with holiday weeks showing spikes despite the recession backdrop.
-- Stores in regions with higher unemployment rates experienced modestly lower average weekly sales.
-- Year‑over‑year growth calculations revealed which stores recovered faster after the economic downturn.
-- Custom sorting of month names and categorical flags improved readability and drill‑down accuracy in the dashboard.
+- Year‑over‑year sales analysis highlights seasonal patterns and recession‑era fluctuations across stores
+- Conditional columns such as Holiday Flag and Unemployment Rate are linked to sales variations, enabling targeted promotional strategies
+- Relationships between the sales and calendar tables support accurate time‑intelligence calculations
+- The dashboard reveals performance disparities among the 45 stores, identifying both high‑growth and underperforming locations
 
 ---
 
@@ -60,9 +58,9 @@ Walmart’s regional stores needed insight into how the 2008‑09 recession impa
 
 ## Business Impact
 
-- Enabled store managers to pinpoint under‑performing periods and align inventory with holiday demand.
-- Provided corporate leadership with a single, interactive view to assess post‑recession recovery across locations.
-- Facilitated data‑driven decision‑making for promotional planning and resource allocation.
+- Provides executives with a real‑time visual snapshot of sales trends, improving strategic planning
+- Identifies underperforming stores for targeted interventions, potentially increasing overall revenue
+- Facilitates data‑driven decision‑making by linking sales outcomes to external factors like holidays and unemployment
 
 ---
 
