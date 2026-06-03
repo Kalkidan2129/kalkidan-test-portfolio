@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst passionate about transforming raw data into actionable business intelligence to drive strategic decision-making across retail and telecommunications. Using tools like Python, Power BI, Excel, and Microsoft Fabric, I specialize in building interactive dashboards, streamlining ETL processes, and uncovering hidden patterns in sales and customer behavior. From year-over-year performance reporting to machine learning-ready forecasting, I translate complex datasets into clear insights that help businesses track performance and plan for the future with confidence.
+As a data analyst, I harness Python and Power BI to distill complex insights, driving informed decisions across industries through precise reporting and strategic visualization.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst passionate about transforming raw data into actionable busin
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Data transforms into strategic decisions, enhancing efficiency and profitability. Power BI tools enable precise insights for business growth.
+This project transformed Vodafone Qatar's telecom data into a unified, ML‑ready foundation using Python and Microsoft Fabric, enabling accurate revenue forecasting and churn analysis. The resulting Power BI dashboard equips finance and strategy teams with actionable insights for data‑driven decision‑making.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Data transforms into strategic decisions, enhancing efficiency and profitability
 
 ## 2. Walmart Store Sales
 
-Walmart Store Sales dashboard analyzes year-over-year performance across 45 US stores during the post-recession period using Power BI.
+Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends across 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and visual insights on sales, CPI, and unemployment impacts.
 
 <br><br>
 
@@ -72,4 +72,4 @@ Walmart Store Sales dashboard analyzes year-over-year performance across 45 US s
 
 ## Contact
 
-<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="linkedin.com/in/kalkidan-bezabeh-2741322b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>

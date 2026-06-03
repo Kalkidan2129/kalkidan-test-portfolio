@@ -3,51 +3,51 @@
 
 ## Project Summary
 
-This Power BI dashboard analyzes year-over-year sales performance across 45 Walmart stores in the US from February 2010 to October 2012, during the post-2008 recession recovery period. The analysis examines sales trends, seasonal patterns, and economic factors affecting retail performance during a challenging economic climate.
+This project presents a comprehensive Power BI dashboard analyzing year-over-year sales performance across 45 Walmart stores in the United States between February 2010 and October 2012, offering insights into sales trends during the early stages of the post-recession recovery.
 
 ---
 
 ## Business Problem
 
-Walmart stores, like other discount retailers, faced significant sales challenges during the post-2008 recession recovery period. Understanding sales performance patterns and identifying key drivers of revenue was crucial for strategic decision-making and operational improvements.
+Walmart faced significant sales challenges during the early recovery period after the 2008 recession, impacting its revenue and market positioning.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales trends across 45 Walmart stores to identify performance patterns
-- Evaluate the impact of holiday periods and unemployment rates on weekly sales performance
-- Create interactive visualizations to support data-driven decision making for retail operations
+- Visualize sales trends across multiple Walmart locations over time
+- Compare sales performance using key business metrics
+- Identify patterns and anomalies in the sales data for strategic decision-making
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
+- Power BI
+- Excel
+- Data Analysis
 - Power Query
-- CSV/Excel Data Processing
-- Data Modeling
-- Time Intelligence Functions
+- DAX
+- Table Visualizations
 
 ---
 
 ## Project Workflow
 
-- Import Walmart sales CSV data into Power BI Desktop using Text/CSV connector
-- Create calendar table with DAX formulas for year, month number, and month name attributes
-- Establish relationship between Walmart sales table and calendar table for time-based analysis
-- Build conditional columns for holiday flags and unemployment rate groupings with custom sorting
-- Develop DAX measures including Total Sales, Sales Per Month, AVG Sales, and Sales YOY calculations
+- Import and clean the Walmart sales data from CSV files
+- Create a calendar table to structure time-based data
+- Establish relationships between tables for accurate data linking
+- Build conditional columns to categorize sales by holidays and unemployment rates
+- Develop and apply DAX measures for performance metrics
+- Design and customize visualizations for clear insights
 
 ---
 
 ## Key Insights
 
-- Year-over-year sales analysis reveals performance trends during economic recovery period
-- Holiday weeks show distinct patterns in weekly sales that impact overall store performance
-- Unemployment rate data can be correlated with sales figures to understand economic sensitivity
-- Seasonal variations in sales performance identified through calendar-based time intelligence
+- Sales patterns showed notable fluctuations tied to seasonal and economic factors
+- Holiday periods and unemployment rates significantly influenced sales outcomes
+- Data integration from multiple sources enhanced the accuracy and depth of analysis
 
 ---
 
@@ -59,9 +59,9 @@ Walmart stores, like other discount retailers, faced significant sales challenge
 
 ## Business Impact
 
-- Provided actionable insights for inventory management and staffing decisions during peak periods
-- Enabled performance benchmarking across multiple store locations during challenging economic times
-- Delivered interactive dashboard solution for ongoing sales monitoring and strategic planning
+- The dashboard supports data-driven strategies to mitigate seasonal sales risks
+- Insights enable targeted promotions and inventory adjustments
+- Stakeholders can track performance trends to guide operational improvements
 
 ---
 
