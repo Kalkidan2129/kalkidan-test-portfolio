@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Bezabeh 👋
+# Hi, I'm kalkidan bezabeh 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst passionate about transforming raw, complex datasets into actionable business intelligence that drives strategic decision-making. Using tools like Python, Power BI, Excel, and Microsoft Fabric, I specialize in building interactive dashboards, streamlining ETL processes, and uncovering hidden trends in sales performance and revenue forecasting. Whether analyzing retail sales fluctuations or telecom customer behavior, I focus on delivering clear, data-driven insights that help businesses optimize performance and confidently plan for the future.
+I'm a data analyst skilled in transforming raw data into actionable insights using tools like Python, Power BI, and Microsoft Fabric. My work focuses on building dashboards, automating ETL processes, and applying machine learning to solve business challenges in forecasting and performance tracking. With experience across telecommunications and retail, I help teams make confident, data-driven decisions through clear reporting and strategic analysis.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst passionate about transforming raw, complex datasets into act
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-The project uses data analysis to forecast revenue shifts and provide insights via Power BI. Collaboration ensures clear stakeholder communication.
+Transformed Vodafone Qatar's telecom data into actionable business intelligence using Power BI, Python, and Microsoft Fabric. Enabled accurate revenue forecasting, churn analysis, and strategic decision-making through a unified ML-ready dataset and interactive dashboards.
 
 <br><br>
 
@@ -55,7 +55,7 @@ The project uses data analysis to forecast revenue shifts and provide insights v
 
 ## 2. Walmart Store Sales
 
-This project analyzes Walmart store sales trends across 45 US locations from 2010 to 2012, highlighting challenges during the recession. It includes key visualizations and custom KPI indicators for actionable insights.
+Analyzed year-over-year sales for 45 Walmart stores in the US from Feb 2010 to Oct 2012, during the post-2008 recession recovery. Developed an interactive Power BI dashboard to visualize sales trends and economic indicators.
 
 <br><br>
 

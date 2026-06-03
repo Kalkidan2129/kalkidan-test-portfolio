@@ -3,46 +3,51 @@
 
 ## Project Summary
 
-The project focused on enhancing revenue forecasting accuracy by analyzing historical data and predictive models to address challenges in predicting market trends and reducing operational uncertainties.
+This project analyzes Vodafone Qatar's telecom data to refine revenue forecasting and inform strategic financial decisions.
 
 ---
 
 ## Business Problem
 
-Uncertainty in revenue forecasting and high churn rates hindered effective business planning, requiring a reliable data-driven solution.
+Addressing challenges in predicting revenue fluctuations to optimize resource allocation and planning.
 
 ---
 
 ## Objective
 
-- Data preparation
-- Model development
-- Visualization creation
+- Enhance forecasting accuracy
+- Identify key trends
+- Support data-driven decisions
 
 ---
 
 ## Tools & Technologies
 
 - Python
+- PowerBI
 - NexusMax
 - Microsoft Fabric
-- PowerBI
+- Excel
+- R
 - SQL
 
 ---
 
 ## Project Workflow
 
-- Data preprocessing, model training, and visualization to deliver actionable insights.
+- Data Preparation
+- Model Development
+- Visualization
+- Case Analysis
+- Report Generation
 
 ---
 
 ## Key Insights
 
-- High churn in specific segments
-- Improved data readiness
-- Enhanced forecast precision
-- Scalable solutions
+- Identified revenue patterns
+- Reduced churn risk
+- Improved strategic planning
 
 ---
 
@@ -54,9 +59,9 @@ Uncertainty in revenue forecasting and high churn rates hindered effective busin
 
 ## Business Impact
 
-- Increased forecasting accuracy
-- Reduced operational costs
-- Boosted stakeholder confidence
+- Enhanced decision-making
+- Cost savings
+- Increased efficiency
 
 ---
 

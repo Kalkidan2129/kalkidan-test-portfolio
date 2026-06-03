@@ -3,51 +3,51 @@
 
 ## Project Summary
 
-A retail analytics project focused on assessing year-over-year sales performance for 45 random Walmart stores across the US. The project utilizes a Power BI dashboard to analyze sales trends between February 2010 and October 2012.
+This project analyzes year-over-year sales performance across 45 Walmart stores in the US from February 2010 to October 2012, during the post-2008 recession recovery period. The analysis provides insights into retail performance trends and seasonal patterns affecting discount retail operations.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced sales impacts during the recovery period following the 2008 great recession. There was a need to analyze how these economic conditions and holiday periods influenced sales performance across various store locations.
+Walmart needed to understand sales performance and recovery patterns following the 2008 economic recession. The company required visibility into year-over-year sales trends across multiple store locations to inform strategic decision-making and operational planning during a critical recovery period.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year (YOY) sales trends across 45 US Walmart stores.
-- Evaluate the impact of holiday weeks and unemployment rates on weekly sales.
-- Develop a comprehensive Power BI dashboard to visualize key retail performance metrics.
+- Analyze year-over-year sales performance across 45 Walmart stores from Feb 2010 to Oct 2012
+- Create interactive Power BI dashboard with DAX measures for sales metrics and trends
+- Deploy visualization solution to Power BI Cloud for stakeholder access and monitoring
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
 - Power BI Desktop
-- DAX
-- Power Query
+- DAX (Data Analysis Expressions)
+- Power BI Cloud
+- CSV Data Files
 - Excel
-- CSV
+- Power Query
 
 ---
 
 ## Project Workflow
 
-- Imported Walmart sales data from CSV files into Power BI Desktop.
-- Developed a custom Calendar table using DAX for time-intelligence analysis.
-- Engineered conditional columns to flag holiday weeks and categorize unemployment rates.
-- Implemented custom sorting for holiday and unemployment groups to ensure accurate data visualization.
-- Created DAX measures for Total Sales, Sales Per Month, Average Sales, and Year-over-Year (YOY) growth.
+- Import and load Walmart sales CSV data into Power BI Desktop
+- Create calendar table with year, month number, and month name using DAX formulas
+- Establish relationship between Walmart sales table and calendar table for time-based analysis
+- Generate conditional columns for holiday flags and unemployment rate categorization
+- Develop DAX measures including Total Sales, Sales Per Month, Average Sales, and Year-over-Year growth metrics
 
 ---
 
 ## Key Insights
 
-- Year-over-year sales growth can be calculated by comparing average sales against the previous year's performance.
-- Sales performance varies based on specific holiday flags and designated holiday weeks.
-- Unemployment rates serve as a key conditional variable in analyzing store sales fluctuations.
-- Time-intelligence analysis is enabled through the integration of a dedicated Calendar table and date refresh queries.
+- Sales patterns showed significant variation during the post-recession recovery period
+- Holiday weeks had measurable impact on weekly sales performance across store locations
+- Year-over-year comparisons revealed seasonal trends and recovery trajectories
+- Unemployment rate correlations provided context for consumer spending behavior during economic recovery
 
 ---
 
@@ -59,9 +59,9 @@ Walmart stores faced sales impacts during the recovery period following the 2008
 
 ## Business Impact
 
-- Enabled data-driven tracking of sales recovery post-2008 recession.
-- Provided visibility into the correlation between unemployment rates and retail sales performance.
-- Streamlined the monitoring of seasonal sales trends through automated YOY growth calculations.
+- Enabled data-driven decision making for retail operations during economic recovery
+- Provided actionable insights into seasonal sales patterns and holiday performance
+- Delivered interactive dashboard solution for ongoing sales monitoring and analysis
 
 ---
 
