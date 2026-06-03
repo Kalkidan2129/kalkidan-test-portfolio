@@ -11,7 +11,7 @@
 
 ## About
 
-As a data analyst, I harness Python and Power BI to distill complex insights, driving informed decisions across industries through precise reporting and strategic visualization.
+I am a data analyst passionate about transforming raw, complex datasets into actionable business intelligence that drives strategic decision-making. Using tools like Python, Power BI, Excel, and Microsoft Fabric, I specialize in building interactive dashboards, streamlining ETL processes, and uncovering hidden trends in sales performance and revenue forecasting. Whether analyzing retail sales fluctuations or telecom customer behavior, I focus on delivering clear, data-driven insights that help businesses optimize performance and confidently plan for the future.
 
 ---
 
@@ -30,7 +30,7 @@ As a data analyst, I harness Python and Power BI to distill complex insights, dr
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-This project transformed Vodafone Qatar's telecom data into a unified, ML‑ready foundation using Python and Microsoft Fabric, enabling accurate revenue forecasting and churn analysis. The resulting Power BI dashboard equips finance and strategy teams with actionable insights for data‑driven decision‑making.
+The project uses data analysis to forecast revenue shifts and provide insights via Power BI. Collaboration ensures clear stakeholder communication.
 
 <br><br>
 
@@ -55,7 +55,7 @@ This project transformed Vodafone Qatar's telecom data into a unified, ML‑read
 
 ## 2. Walmart Store Sales
 
-Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends across 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and visual insights on sales, CPI, and unemployment impacts.
+This project analyzes Walmart store sales trends across 45 US locations from 2010 to 2012, highlighting challenges during the recession. It includes key visualizations and custom KPI indicators for actionable insights.
 
 <br><br>
 
