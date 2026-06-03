@@ -1,4 +1,4 @@
-# Hi, I'm kalkidan bezabeh 👋
+# Hi, I'm Kalkidan Bezabeh 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I'm a data analyst skilled in transforming raw data into actionable insights using tools like Python, Power BI, and Microsoft Fabric. My work focuses on building dashboards, automating ETL processes, and applying machine learning to solve business challenges in forecasting and performance tracking. With experience across telecommunications and retail, I help teams make confident, data-driven decisions through clear reporting and strategic analysis.
+As a data professional, I harness tools like Python and Tableau to transform raw information into actionable insights, ensuring precise decision-making across industries. My focus lies in crafting clear visualizations and reports that bridge data complexity with practical outcomes. Through continuous analysis, I aim to deliver value-driven solutions that align with organizational goals.
 
 ---
 
@@ -30,7 +30,7 @@ I'm a data analyst skilled in transforming raw data into actionable insights usi
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Transformed Vodafone Qatar's telecom data into actionable business intelligence using Power BI, Python, and Microsoft Fabric. Enabled accurate revenue forecasting, churn analysis, and strategic decision-making through a unified ML-ready dataset and interactive dashboards.
+The analysis uncovers key insights. These insights drive strategic improvements.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Transformed Vodafone Qatar's telecom data into actionable business intelligence 
 
 ## 2. Walmart Store Sales
 
-Analyzed year-over-year sales for 45 Walmart stores in the US from Feb 2010 to Oct 2012, during the post-2008 recession recovery. Developed an interactive Power BI dashboard to visualize sales trends and economic indicators.
+Developed a Power BI dashboard to analyze year-over-year sales performance across 45 Walmart stores. The project evaluates the impact of economic factors, including unemployment rates and holiday trends, on retail revenue.
 
 <br><br>
 
@@ -72,4 +72,4 @@ Analyzed year-over-year sales for 45 Walmart stores in the US from Feb 2010 to O
 
 ## Contact
 
-<a href="linkedin.com/in/kalkidan-bezabeh-2741322b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
