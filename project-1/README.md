@@ -3,21 +3,21 @@
 
 ## Project Summary
 
-This project transforms Vodafone Qatar's telecom data into a unified, ML-ready analytics platform to enhance revenue forecasting and performance tracking. By leveraging NexusMax, Python, and Microsoft Fabric, it addresses critical gaps in revenue visibility, churn analysis, and customer behavior insights. The solution empowers finance and strategy teams with data-driven tools for proactive decision-making and budget optimization.
+This project analyzes Vodafone Qatar performance data to support revenue forecasting, churn analysis, KPI monitoring, and business reporting.
 
 ---
 
 ## Business Problem
 
-Telecom revenue performance varies across regions and customer segments, but Vodafone Qatar's teams lacked a consolidated view to identify growth opportunities and revenue risks. Fluctuations in churn and subscriber behavior created uncertainty in forecasting and strategic planning. Without integrated data on revenue, churn, and network performance, decision-makers struggled to allocate resources effectively.
+Telecom leaders need reliable visibility into revenue trends, churn behavior, subscriber activity, and network performance so they can make better forecasting and strategy decisions.
 
 ---
 
 ## Objective
 
-- Improve quarterly revenue forecasting accuracy to optimize budget allocation across high-growth segments
-- Reduce churn in key telecom segments to protect recurring revenue and minimize annual losses
-- Create a unified, ML-ready data foundation for actionable business intelligence and performance tracking
+- Analyze telecom revenue, churn, subscriber, and network performance trends.
+- Prepare data for forecasting and KPI-based business analysis.
+- Create a clear analytics story for finance and strategy decision-making.
 
 ---
 
@@ -27,43 +27,41 @@ Telecom revenue performance varies across regions and customer segments, but Vod
 - Python
 - Pandas
 - Microsoft Fabric
-- NexusMax
-- Machine Learning
-- Data Warehousing
 - ETL
+- Data Forecasting
 
 ---
 
 ## Project Workflow
 
-- Identified business problem and defined objectives for revenue forecasting and churn reduction
-- Cleaned and standardized raw telecom data, resolving inconsistencies and validating KPIs
-- Engineered time-based analysis using a centralized Date table and prepared ML-ready features
-- Built supervised regression models for quarterly revenue forecasting and trend analysis
-- Developed interactive dashboards to visualize revenue, churn, and network performance metrics
+- Defined the telecom forecasting and KPI monitoring objectives.
+- Reviewed Vodafone Qatar revenue, subscriber, churn, and network performance data.
+- Prepared and transformed project data for analytics and forecasting workflows.
+- Built Power BI dashboards to monitor telecom business performance trends.
+- Summarized findings into business-focused insights and reporting outputs.
 
 ---
 
 ## Key Insights
 
-- Total revenue increased 14% QoQ to $108K, driven by Doha's 72M subscribers and strong regional performance
-- High-value mobile prepaid customer churn rose to 2.5%+ QoQ, threatening revenue stability and predictability
-- Network availability scored 99.95%, providing a reliable foundation for customer retention strategies
-- Segment-specific churn (2.41%-2.74%) in Mobile Postpaid and Fixed Broadband risks $8-12K annual revenue loss
+- Analyzed telecom revenue, subscriber, churn, and network performance metrics.
+- Built analytics dashboards to help stakeholders monitor KPI performance and revenue trends.
+- Prepared and transformed project data for forecasting and business analysis workflows.
+- Connected operational metrics to business-focused visual reporting for decision-making.
 
 ---
 
 ## Final Dashboard / Project Preview
 
-![Final Dashboard](https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif)
+![Final Dashboard](./screenshots/preview.png)
 
 ---
 
 ## Business Impact
 
-- Enabled proactive budget allocation through improved quarterly revenue forecasting accuracy
-- Reduced avoidable revenue loss by identifying high-churn segments for targeted retention efforts
-- Streamlined decision-making with unified dashboards and ML-ready data, reducing manual analysis time
+- Improves visibility into telecom revenue, churn, and subscriber performance.
+- Supports forecasting and strategic planning for finance and leadership teams.
+- Helps decision-makers monitor business health through KPI-focused reporting.
 
 ---
 

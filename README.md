@@ -1,6 +1,6 @@
-# Hi, I'm Kalkidan Bezabeh 👋
+# Hi, I'm kalkidan bezabeh 👋
 
-## Power BI Developer
+## Power BI Developer 
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-As a data analyst passionate about transforming raw data into meaningful business insights, I specialize in building end-to-end analytics solutions that drive informed decision-making. My toolkit includes Power BI, Python (Pandas), and data warehousing technologies, which I leverage to create interactive dashboards and perform demand forecasting across telecommunications and retail sectors. I thrive on bridging the gap between complex datasets and strategic business outcomes, delivering clear reporting and predictive models that empower teams to make confident, data-driven choices.
+"I leverage Python and Power BI to analyze telecom and retail data, transforming insights into strategies that enhance decision-making and operational efficiency."
 
 ---
 
@@ -30,7 +30,7 @@ As a data analyst passionate about transforming raw data into meaningful busines
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-The project transforms raw Vodafone data into a unified, ML‑ready dataset using NexusMax, Python, and Microsoft Fabric, enabling accurate revenue forecasting and performance tracking for finance and strategy teams. This approach uncovers hidden patterns in revenue, churn, and customer behavior, providing actionable business intelligence.
+Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset and interactive Power BI dashboard for finance and strategy teams. The solution enables proactive revenue forecasting, churn monitoring, and data‑driven decision‑making.
 
 <br><br>
 
@@ -55,7 +55,7 @@ The project transforms raw Vodafone data into a unified, ML‑ready dataset usin
 
 ## 2. Walmart Store Sales
 
-Walmart Store Sales dashboard analyzes US retail trends (2010-2012) using Power BI, revealing post-recession sales patterns and economic indicators.
+This project analyzes Walmart store sales trends from 2010 to 2012, highlighting key performance insights. It uses Power BI to create visualizations, including conditional columns, relationships, and KPIs.
 
 <br><br>
 
@@ -72,4 +72,4 @@ Walmart Store Sales dashboard analyzes US retail trends (2010-2012) using Power 
 
 ## Contact
 
-<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
