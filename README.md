@@ -11,7 +11,7 @@
 
 ## About
 
-As a data professional, I harness tools like Python and Tableau to transform raw information into actionable insights, ensuring precise decision-making across industries. My focus lies in crafting clear visualizations and reports that bridge data complexity with practical outcomes. Through continuous analysis, I aim to deliver value-driven solutions that align with organizational goals.
+I bring a strong foundation in data analytics and business intelligence, consistently transforming raw datasets into clear, actionable insights across diverse industries. My expertise spans data transformation, visualization, and strategic reporting, enabling teams to make informed decisions. I’m comfortable working with tools like Power BI, Python, and ETL processes, and I excel at turning complex data into meaningful narratives for business strategy.
 
 ---
 
@@ -30,7 +30,7 @@ As a data professional, I harness tools like Python and Tableau to transform raw
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-The analysis uncovers key insights. These insights drive strategic improvements.
+This project transforms raw telecom data into actionable insights, delivering a unified ML-ready foundation for smarter forecasting and strategic decision-making. By leveraging NexusMax, Python, and Microsoft Fabric, it reveals hidden patterns in revenue, churn, and customer behavior across regions and segments.
 
 <br><br>
 
@@ -55,7 +55,7 @@ The analysis uncovers key insights. These insights drive strategic improvements.
 
 ## 2. Walmart Store Sales
 
-Developed a Power BI dashboard to analyze year-over-year sales performance across 45 Walmart stores. The project evaluates the impact of economic factors, including unemployment rates and holiday trends, on retail revenue.
+Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends for 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and KPI visualizations.
 
 <br><br>
 
@@ -72,4 +72,4 @@ Developed a Power BI dashboard to analyze year-over-year sales performance acros
 
 ## Contact
 
-<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
