@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Kindie 👋
+# Hi, I'm Kalkidan Bezabeh 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I'm a data analyst passionate about transforming raw data into meaningful business insights that drive decision-making. My toolkit includes Power BI, Python (Pandas), and data warehousing solutions like Microsoft Fabric, which I use to build forecasting models, create interactive dashboards, and develop ETL pipelines that uncover hidden patterns in complex datasets. With experience across telecommunications and retail sectors, I specialize in demand forecasting, performance tracking, and delivering actionable intelligence that helps businesses anticipate market shifts and optimize outcomes.
+I am a data analyst who turns raw operational and financial data into clear, actionable insights using Python, Power BI, and modern data‑warehousing tools. By building end‑to‑end ETL pipelines, enriching datasets, and creating interactive dashboards, I enable finance and strategy teams to forecast revenue, track performance, and make data‑driven decisions. My work spans telecom and retail, delivering dashboards that translate complex metrics into simple, decision‑support visuals for stakeholders.
 
 ---
 
@@ -30,7 +30,7 @@ I'm a data analyst passionate about transforming raw data into meaningful busine
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-User Safety: safe
+Developed a revenue forecasting model for Vodafone Qatar using Python and Power BI to transform telecom data into actionable business intelligence. The project enables finance and strategy teams to make data-driven decisions through ML-ready datasets and performance analytics.
 
 <br><br>
 
@@ -55,7 +55,7 @@ User Safety: safe
 
 ## 2. Walmart Store Sales
 
-This project leverages Power BI to analyze Walmart store sales trends from 2010 to 2012, highlighting year-over-year performance during the post-recession period. It focuses on retail data analytics, demonstrating how economic factors influenced sales across 45 US stores.
+Analyzed Walmart store sales performance using Power BI to evaluate retail trends during post-recession recovery. Delivered actionable insights for strategic decision-making across 45 stores.
 
 <br><br>
 

@@ -3,53 +3,50 @@
 
 ## Project Summary
 
-This project transforms Vodafone Qatar's telecom data into a unified, ML-ready analytics platform to enhance revenue forecasting and performance tracking. By leveraging NexusMax, Python, and Microsoft Fabric, it addresses critical business challenges in churn management and regional revenue variability. The solution delivers actionable insights through Power BI dashboards, enabling finance and strategy teams to make data-driven decisions with greater confidence.
+This project transforms raw Vodafone Qatar telecom data into an ML‑ready dataset, enabling unified performance tracking and accurate revenue forecasting for finance and strategy teams. Using NexusMax, Python, and Microsoft Fabric, the dataset is cleaned, enriched, and visualized to uncover patterns in revenue, churn, and customer behavior.
 
 ---
 
 ## Business Problem
 
-Telecom revenue performance varies across regions and customer segments, but business teams lack a consolidated view to identify growth opportunities and revenue risks. Fluctuations in churn and subscriber behavior create uncertainty in forecasting and budget planning. Without unified data on revenue, subscribers, churn, and network performance, strategic decision-making is hindered by manual analysis and incomplete insights.
+Telecom revenue performance varies across regions and customer segments, but finance and strategy teams lack a consolidated view to understand growth drivers and revenue risks. Quarterly revenue growth coexists with fluctuating churn and subscriber dynamics, creating uncertainty in forecasting and budget planning.
 
 ---
 
 ## Objective
 
-- Improve quarterly revenue forecasting accuracy to optimize investment allocation across high-growth segments.
-- Reduce churn in key telecom segments to mitigate annual revenue loss.
-- Create a unified data foundation combining business KPIs and ML-ready features for strategic planning.
+- Create a unified, ML‑ready dataset from raw telecom records
+- Develop quarterly revenue forecasts using regression techniques
+- Identify churn drivers and quantify potential revenue impact
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
+- NexusMax
 - Python
 - Microsoft Fabric
-- NexusMax
+- Power BI
 - Pandas
-- Machine Learning
-- Data Warehousing
-- ETL
 
 ---
 
 ## Project Workflow
 
-- Data Preparation and Cleaning: Standardized raw telecom data, resolved missing values, and created a centralized Date table for time-based analysis.
-- Feature Engineering: Transformed KPIs like ARPU, churn rate, and network availability into ML-ready features for forecasting models.
-- Model Selection and Training: Applied supervised regression techniques to predict quarterly revenue trends based on historical patterns.
-- Dashboard Development: Built interactive Power BI visualizations to track revenue, subscribers, churn, and network performance across regions.
-- Business Insights Generation: Identified revenue growth drivers and churn risk areas to inform strategic budget allocation and retention strategies.
+- Ingest and clean raw telecom data
+- Enrich and standardize metrics using NexusMax
+- Build ML‑ready feature set and train regression model
+- Generate forecasts and integrate into Power BI dashboard
+- Deploy dashboard to Colaberry Power BI Cloud
 
 ---
 
 ## Key Insights
 
-- Total revenue increased 14% QoQ to $108K, with Doha contributing the largest share supported by 72M subscribers, indicating strong regional growth patterns.
-- Churn in high-value segments like Mobile Postpaid and Fixed Broadband (2.41%-2.74%) exceeds the overall rate of 2.51%, risking $8-12K annual revenue loss.
-- Network availability at 99.95% provides a reliable service foundation, enabling effective customer retention efforts despite churn challenges.
-- Unified data integration reduces manual analysis time and improves forecasting accuracy, directly supporting proactive budget planning.
+- Total revenue grew 14% QoQ to $108K, indicating strong quarterly momentum.
+- Churn for high‑value prepaid customers is above 2.5% and rising, signaling revenue instability.
+- Segment‑level churn (2.41%–2.74%) exceeds overall churn, representing avoidable annual revenue loss of $8–12K.
+- Network availability is 99.95%, providing a reliable foundation for retention initiatives.
 
 ---
 
@@ -61,9 +58,9 @@ Telecom revenue performance varies across regions and customer segments, but bus
 
 ## Business Impact
 
-- Enhanced forecasting accuracy enables optimized investment in high-growth customer segments and regions.
-- Targeted churn reduction strategies could save $8-12K annually by addressing segment-specific attrition risks.
-- Centralized analytics platform reduces decision-making latency and improves cross-functional alignment for finance and strategy teams.
+- Improved forecasting accuracy enables more precise budget allocation.
+- Targeted churn reduction can recover $8–12K of annual revenue.
+- Unified analytics support data‑driven strategic decisions for finance and strategy teams.
 
 ---
 

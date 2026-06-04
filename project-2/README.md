@@ -3,51 +3,51 @@
 
 ## Project Summary
 
-A comprehensive sales analysis dashboard evaluating year-over-year performance for 45 random Walmart stores across the US. The project analyzes sales trends between February 2010 and October 2012, specifically examining the recovery period following the 2008 recession.
+Developed an interactive Power BI dashboard that visualizes year‑over‑year sales for 45 Walmart stores across the United States from February 2010 to October 2012, highlighting trends during the post‑recession recovery period.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced significant sales impacts during the post-recession era, affecting discount and department store performance. There was a need to assess year-over-year sales trends and the influence of external factors like unemployment rates and holiday periods.
+Walmart’s regional stores needed a clear view of how the 2008‑09 recession impacted weekly sales and how factors such as holidays and unemployment rates influenced performance. Decision‑makers required a single source of truth to monitor sales health and identify under‑performing locations.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year (YOY) sales growth and average weekly sales across 45 US stores.
-- Evaluate the impact of holiday weeks and unemployment rates on store sales performance.
-- Develop a dynamic Power BI dashboard to visualize sales metrics and consumer price index (CPI) trends.
+- Import and cleanse the raw CSV sales data in Power BI Desktop.
+- Build a robust data model with calendar, relationship, and conditional columns for holidays and unemployment.
+- Create DAX measures and visualizations that enable YOY comparison and KPI tracking.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- Power BI Desktop
-- DAX
-- Excel
-- Power Query
-- CSV
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query (M language)
+- Excel (for initial CSV handling)
+- Colaberry Power BI Cloud
+- SQL‑style data modeling
 
 ---
 
 ## Project Workflow
 
-- Imported Walmart sales CSV data into Power BI Desktop for analysis.
-- Developed a custom Calendar table using DAX and established relationships between data tables.
-- Engineered conditional columns to categorize holiday flags and unemployment rate groups.
-- Implemented custom sorting for holiday and unemployment columns to ensure accurate visual representation.
-- Created complex DAX measures for Total Sales, Sales Per Month, Average Sales, and YOY Sales growth.
+- Import the Walmart sales CSV into Power BI Desktop and load the data.
+- Create a Calendar table and a Refresh Date table using DAX and Power Query.
+- Establish relationships between the sales table and the Calendar table.
+- Add conditional columns for holiday flags and unemployment rate groups, then apply custom sort orders.
+- Develop DAX measures (Total Sales, Sales per Month, Avg Sales, Sales YOY) and design the final dashboard with branding.
 
 ---
 
 ## Key Insights
 
-- Year-over-year sales growth can be calculated by comparing current average sales against the previous year's performance using DATEADD.
-- Sales performance varies based on holiday flags, requiring specific conditional categorization for analysis.
-- Unemployment rates serve as a critical external variable impacting store sales trends.
-- The use of a dedicated Calendar table allows for precise time-intelligence analysis across months and years.
+- A dedicated Calendar table enables consistent time‑intelligence calculations such as year‑over‑year growth.
+- Conditional columns for holiday weeks and unemployment groups reveal seasonal and economic drivers of sales variance.
+- Custom sort columns ensure that month names and categorical flags display in logical order on visuals.
+- DAX‑based YOY measure provides a quick snapshot of performance relative to the same period in the prior year.
 
 ---
 
@@ -59,9 +59,9 @@ Walmart stores faced significant sales impacts during the post-recession era, af
 
 ## Business Impact
 
-- Enabled data-driven assessment of sales recovery trends following the 2008 recession.
-- Provided visibility into how holiday periods specifically influence weekly sales volume.
-- Established a scalable reporting framework to monitor the correlation between unemployment rates and retail performance.
+- Empowers store managers to pinpoint periods of sales decline linked to economic factors.
+- Facilitates data‑driven scheduling of promotions around identified holiday spikes.
+- Supports strategic resource allocation by highlighting stores that recovered faster post‑recession.
 
 ---
 
