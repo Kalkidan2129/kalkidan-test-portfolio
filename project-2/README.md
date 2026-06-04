@@ -3,52 +3,51 @@
 
 ## Project Summary
 
-This project involved analyzing Walmart store sales data from 45 random US stores between 2010 and 2012 to understand sales performance during the early stages of the recession.
+A comprehensive sales analysis dashboard evaluating year-over-year performance for 45 random Walmart stores across the US. The project analyzes sales trends between February 2010 and October 2012, specifically examining the recovery period following the 2008 recession.
 
 ---
 
 ## Business Problem
 
-Walmart faced sales challenges similar to discount retailers during the 2008 recession, impacting revenue despite being a major retailer.
+Walmart stores faced significant sales impacts during the post-recession era, affecting discount and department store performance. There was a need to assess year-over-year sales trends and the influence of external factors like unemployment rates and holiday periods.
 
 ---
 
 ## Objective
 
-- Assess year-over-year sales trends across multiple Walmart locations
-- Visualize sales patterns using Power BI dashboards
-- Identify key factors influencing sales performance during economic downturns
+- Analyze year-over-year (YOY) sales growth and average weekly sales across 45 US stores.
+- Evaluate the impact of holiday weeks and unemployment rates on store sales performance.
+- Develop a dynamic Power BI dashboard to visualize sales metrics and consumer price index (CPI) trends.
 
 ---
 
 ## Tools & Technologies
 
 - Power BI
+- Power BI Desktop
+- DAX
 - Excel
-- Data Analysis
-- Tableau
 - Power Query
-- Python
-- SQL
-- Colaberry
+- CSV
 
 ---
 
 ## Project Workflow
 
-- Import data from CSV files into Power BI Desktop
-- Clean and transform data using Power Query
-- Create visualizations and dashboards in Power BI
-- Refresh data regularly to maintain up-to-date insights
-- Document insights and share findings with stakeholders
+- Imported Walmart sales CSV data into Power BI Desktop for analysis.
+- Developed a custom Calendar table using DAX and established relationships between data tables.
+- Engineered conditional columns to categorize holiday flags and unemployment rate groups.
+- Implemented custom sorting for holiday and unemployment columns to ensure accurate visual representation.
+- Created complex DAX measures for Total Sales, Sales Per Month, Average Sales, and YOY Sales growth.
 
 ---
 
 ## Key Insights
 
-- Sales declines in certain stores correlated with broader retail sector challenges
-- Seasonal patterns and promotional activities had limited impact on overall recovery
-- Data shows variability across regions, highlighting the need for localized strategies
+- Year-over-year sales growth can be calculated by comparing current average sales against the previous year's performance using DATEADD.
+- Sales performance varies based on holiday flags, requiring specific conditional categorization for analysis.
+- Unemployment rates serve as a critical external variable impacting store sales trends.
+- The use of a dedicated Calendar table allows for precise time-intelligence analysis across months and years.
 
 ---
 
@@ -60,9 +59,9 @@ Walmart faced sales challenges similar to discount retailers during the 2008 rec
 
 ## Business Impact
 
-- Informed targeted marketing and inventory decisions
-- Helped identify underperforming locations for strategic investment
-- Provided actionable metrics for improving retail performance during recessions
+- Enabled data-driven assessment of sales recovery trends following the 2008 recession.
+- Provided visibility into how holiday periods specifically influence weekly sales volume.
+- Established a scalable reporting framework to monitor the correlation between unemployment rates and retail performance.
 
 ---
 

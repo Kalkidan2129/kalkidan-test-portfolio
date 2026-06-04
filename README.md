@@ -1,6 +1,6 @@
-# Hi, I'm kalkidan bezabeh 👋
+# Hi, I'm Kalkidan Kindie 👋
 
-## Power BI Developer 
+## Power BI Developer
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-"I leverage Python and Power BI to analyze telecom and retail data, transforming insights into strategies that enhance decision-making and operational efficiency."
+I'm a data analyst passionate about transforming raw data into meaningful business insights that drive decision-making. My toolkit includes Power BI, Python (Pandas), and data warehousing solutions like Microsoft Fabric, which I use to build forecasting models, create interactive dashboards, and develop ETL pipelines that uncover hidden patterns in complex datasets. With experience across telecommunications and retail sectors, I specialize in demand forecasting, performance tracking, and delivering actionable intelligence that helps businesses anticipate market shifts and optimize outcomes.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset and interactive Power BI dashboard for finance and strategy teams. The solution enables proactive revenue forecasting, churn monitoring, and data‑driven decision‑making.
+User Safety: safe
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar�
 
 ## 2. Walmart Store Sales
 
-This project analyzes Walmart store sales trends from 2010 to 2012, highlighting key performance insights. It uses Power BI to create visualizations, including conditional columns, relationships, and KPIs.
+This project leverages Power BI to analyze Walmart store sales trends from 2010 to 2012, highlighting year-over-year performance during the post-recession period. It focuses on retail data analytics, demonstrating how economic factors influenced sales across 45 US stores.
 
 <br><br>
 
