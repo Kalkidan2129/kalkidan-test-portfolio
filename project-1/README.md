@@ -3,67 +3,67 @@
 
 ## Project Summary
 
-This project transforms Vodafone Qatar's telecom performance data (2021–2023) into actionable business intelligence using NexusMax, Python, and Microsoft Fabric. It creates a unified, ML-ready dataset to improve revenue forecasting accuracy, track performance metrics, and enable data-driven decision-making for finance and strategy teams. The solution addresses churn risks and regional revenue variability through advanced analytics and visualization.
+This project transforms Vodafone Qatar's telecom data into a unified, ML-ready analytics platform to enhance revenue forecasting and performance tracking. By leveraging NexusMax, Python, and Microsoft Fabric, it addresses critical gaps in revenue visibility, churn analysis, and customer behavior insights. The solution empowers finance and strategy teams with data-driven tools for proactive decision-making and budget optimization.
 
 ---
 
 ## Business Problem
 
-Telecom revenue performance varies across regions and customer segments, but business teams lack a consolidated view to understand growth patterns and revenue risks. Quarterly revenue fluctuations and rising churn rates create uncertainty in forecasting and budget planning. Without unified data on revenue, subscribers, churn, and network performance, strategic decisions remain reactive rather than proactive.
+Telecom revenue performance varies across regions and customer segments, but Vodafone Qatar's teams lacked a consolidated view to identify growth opportunities and revenue risks. Fluctuations in churn and subscriber behavior created uncertainty in forecasting and strategic planning. Without integrated data on revenue, churn, and network performance, decision-makers struggled to allocate resources effectively.
 
 ---
 
 ## Objective
 
-- Improve quarterly revenue forecasting accuracy to optimize investment allocation
-- Reduce segment-specific churn to retain high-value customers and protect recurring revenue
-- Create a unified analytics platform for real-time performance tracking and strategic planning
+- Improve quarterly revenue forecasting accuracy to optimize budget allocation across high-growth segments
+- Reduce churn in key telecom segments to protect recurring revenue and minimize annual losses
+- Create a unified, ML-ready data foundation for actionable business intelligence and performance tracking
 
 ---
 
 ## Tools & Technologies
 
-- NexusMax
-- Python
-- Microsoft Fabric
 - Power BI
+- Python
 - Pandas
-- Kaggle Dataset
+- Microsoft Fabric
+- NexusMax
 - Machine Learning
-- ETL Pipelines
+- Data Warehousing
+- ETL
 
 ---
 
 ## Project Workflow
 
-- Ingest and clean Vodafone Qatar's telecom performance data from Kaggle and investor presentations
-- Engineer features and unify KPIs (ARPU, churn, revenue, network metrics) into an ML-ready dataset
-- Analyze historical trends and segment-specific patterns using Python and Pandas
-- Build forecasting models and dashboards in Power BI for business teams
-- Deploy insights to Colaberry Power BI Cloud for stakeholder access
+- Identified business problem and defined objectives for revenue forecasting and churn reduction
+- Cleaned and standardized raw telecom data, resolving inconsistencies and validating KPIs
+- Engineered time-based analysis using a centralized Date table and prepared ML-ready features
+- Built supervised regression models for quarterly revenue forecasting and trend analysis
+- Developed interactive dashboards to visualize revenue, churn, and network performance metrics
 
 ---
 
 ## Key Insights
 
-- Total revenue increased 14% QoQ to $108K, driven by Doha's 72M subscribers and predictable quarterly patterns
-- High-value mobile prepaid churn rose to 2.8% (+0.3% QoQ), threatening revenue stability despite overall growth
-- Network availability at 99.95% supports customer experience but does not offset segment-specific churn risks (2.41%-2.74%)
-- Churn reduction in key segments could save $8–12K annually while improving forecasting reliability
+- Total revenue increased 14% QoQ to $108K, driven by Doha's 72M subscribers and strong regional performance
+- High-value mobile prepaid customer churn rose to 2.5%+ QoQ, threatening revenue stability and predictability
+- Network availability scored 99.95%, providing a reliable foundation for customer retention strategies
+- Segment-specific churn (2.41%-2.74%) in Mobile Postpaid and Fixed Broadband risks $8-12K annual revenue loss
 
 ---
 
 ## Final Dashboard / Project Preview
 
-![Final Dashboard](./screenshots/preview.png)
+![Final Dashboard](https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif)
 
 ---
 
 ## Business Impact
 
-- Enhanced quarterly revenue forecasting accuracy enables better budget allocation and investment prioritization
-- Reduced churn in high-value segments protects $8–12K in annual recurring revenue
-- Unified analytics platform accelerates decision-making for finance and strategy teams by 40%
+- Enabled proactive budget allocation through improved quarterly revenue forecasting accuracy
+- Reduced avoidable revenue loss by identifying high-churn segments for targeted retention efforts
+- Streamlined decision-making with unified dashboards and ML-ready data, reducing manual analysis time
 
 ---
 
