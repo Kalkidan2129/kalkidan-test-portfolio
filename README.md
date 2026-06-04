@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who turns raw operational and financial data into clear, actionable insights using Python, Power BI, and modern data‑warehousing tools. By building end‑to‑end ETL pipelines, enriching datasets, and creating interactive dashboards, I enable finance and strategy teams to forecast revenue, track performance, and make data‑driven decisions. My work spans telecom and retail, delivering dashboards that translate complex metrics into simple, decision‑support visuals for stakeholders.
+As a data professional, I leverage Python and Power BI to analyze telecom and retail datasets, transforming insights into actionable strategies for informed decision-making. My focus on dashboards and reporting ensures clarity in bridging data complexity with business outcomes.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who turns raw operational and financial data into clear, act
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a revenue forecasting model for Vodafone Qatar using Python and Power BI to transform telecom data into actionable business intelligence. The project enables finance and strategy teams to make data-driven decisions through ML-ready datasets and performance analytics.
+LeveragingNexusMax, Python, and Microsoft Fabric, this project builds an ML‑ready telecom dataset that powers accurate revenue forecasting. It delivers actionable insights for finance and strategy teams.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a revenue forecasting model for Vodafone Qatar using Python and Power 
 
 ## 2. Walmart Store Sales
 
-Analyzed Walmart store sales performance using Power BI to evaluate retail trends during post-recession recovery. Delivered actionable insights for strategic decision-making across 45 stores.
+Analyzed Walmart Store sales performance using Power BI to assess year-over-year trends across 45 US locations from 2010-2012. Delivered actionable insights for retail strategy during post-recession recovery.
 
 <br><br>
 
