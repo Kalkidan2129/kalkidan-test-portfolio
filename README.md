@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Bezabeh 👋
+# Hi, I'm kalkidan bezabeh 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-As a data professional, I leverage Python and Power BI to analyze telecom and retail datasets, transforming insights into actionable strategies for informed decision-making. My focus on dashboards and reporting ensures clarity in bridging data complexity with business outcomes.
+As a data analyst, I harness Python and Power BI to convert raw information into actionable insights, driving efficient strategies in telecommunications and retail sectors. My focus lies on transforming data into clarity, ensuring decisions align with organizational goals.
 
 ---
 
@@ -30,7 +30,7 @@ As a data professional, I leverage Python and Power BI to analyze telecom and re
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-LeveragingNexusMax, Python, and Microsoft Fabric, this project builds an ML‑ready telecom dataset that powers accurate revenue forecasting. It delivers actionable insights for finance and strategy teams.
+Transformed Vodafone Qatar's telecom data into actionable insights using Python and Microsoft Fabric, enabling smarter revenue forecasting and data-driven decisions for finance and strategy teams.
 
 <br><br>
 
@@ -55,7 +55,7 @@ LeveragingNexusMax, Python, and Microsoft Fabric, this project builds an ML‑re
 
 ## 2. Walmart Store Sales
 
-Analyzed Walmart Store sales performance using Power BI to assess year-over-year trends across 45 US locations from 2010-2012. Delivered actionable insights for retail strategy during post-recession recovery.
+This project showcases a comprehensive Power BI dashboard analyzing Walmart sales trends across 45 stores in the US. It effectively demonstrates data transformation, visualization, and KPI creation for business insights.
 
 <br><br>
 
